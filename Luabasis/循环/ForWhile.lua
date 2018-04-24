@@ -14,7 +14,7 @@ function TempFunc2()
 	end
 end
 
--- TempFunc2()
+TempFunc2()
 -- tempfunc()
 
 
